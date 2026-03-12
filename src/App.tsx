@@ -34,7 +34,7 @@ const App = () => {
   }
 
   return (
-    <div className="flex h-screen flex-col gap-4 p-4">
+    <div className="flex h-svh flex-col gap-4 p-4">
       <div className="flex flex-1 flex-col gap-2 overflow-y-auto">
         {generatedText.map((item, index) => (
           <div key={index}>
