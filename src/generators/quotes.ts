@@ -1098,9 +1098,9 @@ const quotes = [
 ]
 
 export default class Quotes extends Generator {
-  name = "Qoutes"
+  name = "Quotes"
   credits = {
-    text: "Qoutes API",
+    text: "Quotes API",
     url: "https://github.com/well300/quotes-api/",
     license: "https://github.com/well300/quotes-api/blob/main/License",
   }
